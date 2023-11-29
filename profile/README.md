@@ -16,7 +16,7 @@ Our tech stack is centered around utilizing modern and fluid technologies that a
 FusionImage is an innovative and cutting-edge AI Image Generation Application that leverages the power of computer vision and neural networks to create stunningly realistic and visually captivating images.
 This Generative AI Image Generation App utilises OpenAI's APIs to create stunning images. With MongoDB and Cloudinary, We've built a community showcase for storing, downloading and sharing AI-generated images. The app features hundreds of built-in Image Generation Prompts, and you can also generate AI Images from any custom prompt.
 
-image.fusionwaveai.com
+https://image.fusionwaveai.com
 
 # Tech Stack
 
@@ -26,7 +26,7 @@ This is Full-stack MERN app, our tech stack includes Vite, Reactjs, TailwindCSS,
 
 FusionFight is fully onchain NFT Card style turn based 2-player game. Both players compete with thier attack and defence points(randomised every round) and the player loosing all health bars looses.
 
-game.fusionwaveai.com
+https://game.fusionwaveai.com
 
 # Tech Stack
 
