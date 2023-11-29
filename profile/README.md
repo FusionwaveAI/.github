@@ -9,22 +9,31 @@ We are leveraging the power of Web3 to provide access, ownership, and a marketpl
 
 # Tech Stack
 
-Our tech stack is centered around utilizing modern and fluid technologies that allow us to build world-class NFT Marketplace that is both feature rich and user-friendly. Currently, our tech stack includes Nextjs, React, TailwindCSS, JavaScript, Solidity, Nodejs, Ethersjs and we have deployed on Vercel.
+Our tech stack is centered around utilizing modern and fluid technologies that allow us to build world-class NFT Marketplace that is both feature rich and user-friendly. Currently, our tech stack includes Nextjs, Reactjs, TailwindCSS, JavaScript, Solidity, Nodejs, Ethersjs and we have deployed on Vercel.
 
 # FusionImage
 
 FusionImage is an innovative and cutting-edge AI Image Generation Application that leverages the power of computer vision and neural networks to create stunningly realistic and visually captivating images.
 This Generative AI Image Generation App utilises OpenAI's APIs to create stunning images. With MongoDB and Cloudinary, We've built a community showcase for storing, downloading and sharing AI-generated images. The app features hundreds of built-in Image Generation Prompts, and you can also generate AI Images from any custom prompt.
 
+image.fusionwaveai.com
+
 # Tech Stack
 
-This is Full-stack MERN app, our tech stack includes Vite, React, TailwindCSS, JavaScript, Expressjs, Nodejs, MongoDB, OpenAI APIs and Cloudinary. The client(frontend) is deployed on Netlify and the server(backend) is deployed on Render.
+This is Full-stack MERN app, our tech stack includes Vite, Reactjs, TailwindCSS, JavaScript, Expressjs, Nodejs, MongoDB, OpenAI APIs and Cloudinary. The client(frontend) is deployed on Netlify and the server(backend) is deployed on Render.
+
+# FusionFight
+
+FusionFight is fully onchain NFT Card style turn based 2-player game. Both players compete with thier attack and defence points(randomised every round) and the player loosing all health bars looses.
+
+game.fusionwaveai.com
+
+# Tech Stack
+
+This is fully onchain web3 gaming Dapp, our tech stack includes Vite, Reactjs, TailwindCSS, JavaScript, Nodejs, TypeScript, Ethersjs, Hardhat. The client(frontend) is deployed on Netlify and the smartcontract is deployed on Polygon Mumbai Testnet.
 
 Website
 https://www.fusionwaveai.com
 
-Litepaper
-https://drive.google.com/file/d/1TkK88BGE-LobHAxMCVI9Es58_Qpg91Mh/view
-
 Pitchdeck
-https://drive.google.com/file/d/1dHZKVQWW4obTo1rjS1w3jOCVlUujV8cV/view
+https://drive.google.com/file/d/1ISXLFltrqaEOCq3OB2oiwZxTpGYfi7nT/view
