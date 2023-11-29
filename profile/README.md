@@ -30,7 +30,7 @@ https://game.fusionwaveai.com
 
 # Tech Stack
 
-This is fully onchain web3 gaming Dapp, our tech stack includes Vite, Reactjs, TailwindCSS, JavaScript, Nodejs, TypeScript, Ethersjs, Hardhat. The client(frontend) is deployed on Netlify and the smartcontract is deployed on Polygon Mumbai Testnet.
+This is fully onchain web3 gaming Dapp, our tech stack includes Vite, Reactjs, React-tilt, TailwindCSS, JavaScript, Nodejs, TypeScript, Ethersjs, Hardhat. The client(frontend) is deployed on Netlify and the smartcontract is deployed on Polygon Mumbai Testnet.
 
 Website
 https://www.fusionwaveai.com
